@@ -14,3 +14,4 @@ Too smiley (4.10)
 [Lizzy](Lizzy.md)
 -
 Not tempting (3.7)  
+Attracted to her (6.15)
