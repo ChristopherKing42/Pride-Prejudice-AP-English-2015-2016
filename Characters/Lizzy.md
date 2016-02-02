@@ -8,3 +8,11 @@ Father (1.2)
 [MrsBennet](MrsBennet.md)
 -
 Mother (1.2)
+
+[MissBingley.md](MissBingley.md)
+-
+Snotty
+
+[Charlotte](Charlotte.md)
+-
+Friend (5.13)
