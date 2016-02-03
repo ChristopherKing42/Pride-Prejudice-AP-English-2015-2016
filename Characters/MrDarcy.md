@@ -1,6 +1,7 @@
 (3.6)  
 Wealthy (3.6)  
-Disliked (3.6)
+Disliked (3.6)  
+Gives definiton of Accomplished Woman (8.26)
 
 [MrBingley](MrBingley.md)
 -
