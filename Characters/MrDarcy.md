@@ -18,3 +18,7 @@ Too smiley (4.10)
 Not tempting (3.7)  
 Attracted to her (6.15)  
 Charming (10.36)
+
+[Wickman](Wickman.md)
+-
+Changed color when he saw him (15.49)
