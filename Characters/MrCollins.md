@@ -8,4 +8,5 @@ Cousin (13.42)
 
 [Lizzy](Lizzy.md)
 -
-Might propose to her (17.60)
+Might propose to her (17.60)  
+Proposed to her, she said no (19.73)
