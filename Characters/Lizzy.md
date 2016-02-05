@@ -15,4 +15,5 @@ Snotty
 
 [Charlotte](Charlotte.md)
 -
-Friend (5.13)
+Friend (5.13)  
+"no real confidence could ever subsist again" (23.89)
