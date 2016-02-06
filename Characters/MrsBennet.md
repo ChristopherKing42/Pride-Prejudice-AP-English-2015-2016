@@ -20,3 +20,7 @@ Daughter (1.2)
 [MrBingley](MrBingley.md)
 -
 Wants daughters to marry him (1.2)
+
+[MrBennet](MrBennet.md)
+-
+Brother (25.95)
