@@ -10,3 +10,8 @@ Several years younger than Mrs. Bennet (25.95)
 ---------------------------
 
 Husband (25.95)
+
+[Lizzy](Lizzy.md)
+-----------------
+
+Warned her not to get to serious with [MrWickman](MrWickman.md) (26.98)
