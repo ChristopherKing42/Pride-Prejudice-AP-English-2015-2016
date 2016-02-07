@@ -14,4 +14,5 @@ Husband (25.95)
 [Lizzy](Lizzy.md)
 -----------------
 
-Warned her not to get to serious with [MrWickman](MrWickman.md) (26.98)
+Warned her not to get to serious with [MrWickman](MrWickman.md) (26.98)  
+Tells her [MrWickman](MrWickman.md) likes Miss King because she has monies (27.105)
