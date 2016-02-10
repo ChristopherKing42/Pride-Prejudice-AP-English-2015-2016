@@ -16,3 +16,8 @@ Husband (25.95)
 
 Warned her not to get to serious with [MrWickman](MrWickman.md) (26.98)  
 Tells her [MrWickman](MrWickman.md) likes Miss King because she has monies (27.105)
+
+[Jane](Jane.md)
+---------------
+
+Her kids' favorite cousin (42.162)
