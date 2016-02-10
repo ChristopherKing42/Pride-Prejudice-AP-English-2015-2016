@@ -1,5 +1,6 @@
 (25.95)  
-Sensible, gentleman-like (25.95)
+Sensible, gentleman-like (25.95)  
+Likes fishing (43.170)
 
 [MrsBennet](MrsBennet.md)
 -------------------------
