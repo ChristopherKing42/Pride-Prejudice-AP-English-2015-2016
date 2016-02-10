@@ -10,3 +10,8 @@ Father (1.2)
 -------------------------
 
 Mother (1.2)
+
+[MrsForster](MrsForster.md)
+---------------------------
+
+Invites her to military base (41.155)
