@@ -15,3 +15,8 @@ Mother (1.2)
 ---------------------------
 
 Invites her to military base (41.155)
+
+[MrWickman.md](MrWickmand.md)
+-----------------------------
+
+Elope (46.183)
