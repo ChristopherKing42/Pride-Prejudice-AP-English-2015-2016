@@ -22,7 +22,8 @@ Not tempting (3.7)
 Attracted to her (6.15)  
 Charming (10.36)  
 Loves her (34.129)  
-Engaged (59.251)
+Engaged (59.251)  
+Her mind is lively (60.256)
 
 [Wickman](Wickman.md)
 ---------------------
