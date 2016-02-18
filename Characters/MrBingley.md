@@ -13,7 +13,8 @@ Friend (3.6)
 
 Danced with her twice (3.7)  
 He could not conceive angels beautifuler (4.10)  
-Engaged (56.235)
+Engaged (56.235)  
+Married (61.259)
 
 [MissBingley](MissBingley.md)
 -----------------------------

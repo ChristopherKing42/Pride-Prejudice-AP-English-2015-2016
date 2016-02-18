@@ -23,7 +23,8 @@ Attracted to her (6.15)
 Charming (10.36)  
 Loves her (34.129)  
 Engaged (59.251)  
-Her mind is lively (60.256)
+Her mind is lively (60.256)  
+Married (61.259)
 
 [Wickman](Wickman.md)
 ---------------------

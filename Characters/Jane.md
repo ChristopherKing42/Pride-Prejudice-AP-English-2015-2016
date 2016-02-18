@@ -15,7 +15,8 @@ Mother (1.2)
 -------------------------
 
 Danced with him twice (3.7)  
-Engaged (56.235)
+Engaged (56.235)  
+Married (61.259)
 
 [MissBingley.md](MissBingley.md)
 --------------------------------
