@@ -21,7 +21,8 @@ Too smiley (4.10)
 Not tempting (3.7)  
 Attracted to her (6.15)  
 Charming (10.36)  
-Loves her (34.129)
+Loves her (34.129)  
+Engaged (59.251)
 
 [Wickman](Wickman.md)
 ---------------------
